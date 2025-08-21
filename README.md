@@ -111,12 +111,3 @@ SQLAlchemy
 
 License
 MIT License
-
-
-
-
-
-
-
-
-Ask ChatGPT
